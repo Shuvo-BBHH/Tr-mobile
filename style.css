@@ -28,7 +28,7 @@ body{
     flex-wrap: wrap;
 }
 .row .card{
-    width: 150px;
+    width: 110px;
     background: #fff;
     overflow: hidden;
     border-radius: 15px;
@@ -45,7 +45,7 @@ body{
 }
 .row .card .imgWrapper{
     width: 100%;
-    height: 150px;
+    height: 80px;
     position: relative;
 }
 .row .card .imgWrapper img{
@@ -65,12 +65,12 @@ body{
 }
 .row .card .content{
     padding: 20px;
-    padding-bottom: 30px;
+    padding-bottom: 20px;
     text-align: center;
 }
 .row .card .content h3{
     font-size: 22px;
-    line-height: 30px;
+    line-height: 20px;
     padding-bottom: 15px;
     color: #2d3436;
 }
@@ -82,7 +82,7 @@ body{
     background: #ee7e2c;
     user-select: none;
     border-radius: 50rem;
-    font-size: 15px;
+    font-size: 10px;
     text-transform: uppercase;
     letter-spacing: 2px;
 }
